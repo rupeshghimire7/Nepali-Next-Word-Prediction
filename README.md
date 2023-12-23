@@ -1,6 +1,5 @@
 # Nepali Next Word Prediction
 
-![Nepali Flag](nepali_flag.png)
 
 ## Overview
 
